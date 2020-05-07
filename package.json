@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "full-stack_developement_course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HusrevAkbas/bootstrap.git"
+  },
+  "author": "husrevAkbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HusrevAkbas/bootstrap/issues"
+  },
+  "homepage": "https://github.com/HusrevAkbas/bootstrap#readme"
+}
