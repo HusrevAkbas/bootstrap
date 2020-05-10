@@ -26,3 +26,10 @@ footer {
   margin: 0 auto;
   color: #0f0f0f;
 }
+body {
+  padding: 50px;
+  z-index: 0;
+}
+.navbar-dark{
+  background-color: #512da8;
+}
